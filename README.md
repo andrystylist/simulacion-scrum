@@ -8,7 +8,7 @@ Cuestionario - Completar los espacios en blanco:
 
 3. El archivo ________ es esencial para entender un proyecto de software, proporcionando información sobre su propósito, funcionalidad, instrucciones de uso y otros detalles. Este archivo actúa como una hoja de ruta, ofreciendo claridad sobre cómo empezar con el proyecto.
 
-4. Cuando se trabaja con Git, los desarrolladores suelen subir cambios desde su repositorio local al repositorio remoto para compartir su trabajo con otros y sincronizar la base de código.
+4. Cuando se trabaja con Git, los desarrolladores suelen subir cambios desde su repositorio local al repositorio remoto para compartir su trabajo con otros y sincronizar la base de código..
 
 5. La rama ________ en Git típicamente representa la versión estable y lista para producción de la base de código, sirviendo como punto de referencia principal para el desarrollo y los lanzamientos.
 
