@@ -4,7 +4,7 @@ Cuestionario - Completar los espacios en blanco:
 
 1. GitHub es una plataforma web construida para que los desarrolladores colaboren en proyectos usando el sistema de control de versiones GIT.
 
-2. Muchos de los proyectos de _________ abierta más usados en el mundo están alojados en GitHub.
+2. Muchos de los proyectos de ___código______ abierta más usados en el mundo están alojados en GitHub.
 
 3. El archivo ________ es esencial para entender un proyecto de software, proporcionando información sobre su propósito, funcionalidad, instrucciones de uso y otros detalles. Este archivo actúa como una hoja de ruta, ofreciendo claridad sobre cómo empezar con el proyecto.
 
