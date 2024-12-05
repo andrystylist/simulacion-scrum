@@ -16,6 +16,6 @@ Cuestionario - Completar los espacios en blanco:
 
 7.  Nombre de tu mascota _____
 
-8.  Nombre del bootcamp ______
+8.  Nombre del bootcamp
 
 Esta linea no la tocan 
