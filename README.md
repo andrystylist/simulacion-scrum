@@ -2,7 +2,7 @@
 ### Este es el segundo cambio
 Cuestionario - Completar los espacios en blanco:
 
-1. GitHub es una plataforma web construida para que los desarrolladores colaboren en proyectos usando el sistema de control de versiones GIT.
+1. GitHub es una plataforma web construida para que los desarrolladores colaboren en proyectos usando el sistema de control de versiones GIT_4- 20:49:00.
 
 2. Muchos de los proyectos de ___código______ abierta más usados en el mundo están alojados en GitHub.
 
@@ -10,12 +10,12 @@ Cuestionario - Completar los espacios en blanco:
 
 4. Cuando se trabaja con Git, los desarrolladores suelen subir cambios desde su repositorio local al repositorio remoto para compartir su trabajo con otros y sincronizar la base de código..
 
-5. La rama ________ en Git típicamente representa la versión estable y lista para producción de la base de código, sirviendo como punto de referencia principal para el desarrollo y los lanzamientos.
+5. La rama main y master en Git típicamente representa la versión estable y lista para producción de la base de código, sirviendo como punto de referencia principal para el desarrollo y los lanzamientos.
 
-6. Un ________ de fusión ocurre en Git cuando hay cambios conflictivos entre diferentes ramas o commits, requiriendo intervención manual para resolver las discrepancias y completar el proceso de fusión.
+6. Un conflicto de fusión ocurre en Git cuando hay cambios conflictivos entre diferentes ramas o commits, requiriendo intervención manual para resolver las discrepancias y completar el proceso de fusión.
 
 7.  Nombre de tu mascota _____
 
-8.  Nombre del bootcamp
+8.  Nombre del bootcamp Full Stack JAVA
 
 Esta linea no la tocan 
