@@ -6,7 +6,7 @@ Cuestionario - Completar los espacios en blanco:
 
 2. Muchos de los proyectos de _________ abierta más usados en el mundo están alojados en GitHub.
 
-3. El archivo GIT (o git) es esencial para entender un proyecto de software, proporcionando información sobre su propósito, funcionalidad, instrucciones de uso y otros detalles. Este archivo actúa como una hoja de ruta, ofreciendo claridad sobre cómo empezar con el proyecto.
+3. El archivo GIT (git) es esencial para entender un proyecto de software, proporcionando información sobre su propósito, funcionalidad, instrucciones de uso y otros detalles. Este archivo actúa como una hoja de ruta, ofreciendo claridad sobre cómo empezar con el proyecto.
 
 4. Cuando se trabaja con Git, los desarrolladores suelen subir cambios desde su repositorio local al repositorio remoto para compartir su trabajo con otros y sincronizar la base de código.
 
