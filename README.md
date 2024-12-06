@@ -2,7 +2,7 @@
 ### Este es el segundo cambio
 Cuestionario - Completar los espacios en blanco:
 
-1. GitHub es una plataforma web construida para que los desarrolladores colaboren en proyectos usando el sistema de control de versiones GIT_4- 20:35:00.
+1. GitHub es una plataforma web construida para que los desarrolladores colaboren en proyectos usando el sistema de control de versiones GIT_4- 20:49:00.
 
 2. Muchos de los proyectos de ___código______ abierta más usados en el mundo están alojados en GitHub.
 
