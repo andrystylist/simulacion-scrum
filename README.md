@@ -10,7 +10,7 @@ Cuestionario - Completar los espacios en blanco:
 
 4. Cuando se trabaja con Git, los desarrolladores suelen subir cambios desde su repositorio local al repositorio remoto para compartir su trabajo con otros y sincronizar la base de código..
 
-5. La rama ________ en Git típicamente representa la versión estable y lista para producción de la base de código, sirviendo como punto de referencia principal para el desarrollo y los lanzamientos.
+5. La rama main y master en Git típicamente representa la versión estable y lista para producción de la base de código, sirviendo como punto de referencia principal para el desarrollo y los lanzamientos.
 
 6. Un ________ de fusión ocurre en Git cuando hay cambios conflictivos entre diferentes ramas o commits, requiriendo intervención manual para resolver las discrepancias y completar el proceso de fusión.
 
