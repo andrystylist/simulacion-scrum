@@ -14,7 +14,7 @@ Cuestionario - Completar los espacios en blanco:
 
 6. Un ________ de fusión ocurre en Git cuando hay cambios conflictivos entre diferentes ramas o commits, requiriendo intervención manual para resolver las discrepancias y completar el proceso de fusión.
 
-7.  Nombre de tu mascota _____
+7.  Nombre de tu mascotas : matias 
 
 8.  Nombre del bootcamp ______
 
